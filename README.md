@@ -37,3 +37,9 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 8.Keep the **default** selections for the other **configuration settings** for your instance.</br>
 9.select IAM Role **CloudWatchAgentServerRole**</br>
 10. Review a **summary** of your instance configuration in the Summary panel, and when you're ready, choose **Launch instance.**
+
+
+# Connect to your Linux instance using SSH
+
+1.From the EC2 console dashboard, select your instance and select **Connect**. select **SSH client**</br>
+2. **Copy** "ssh -i /path/key-pair-name.pem instance-user-name@instance-public-dns-name"
