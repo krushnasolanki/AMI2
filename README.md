@@ -46,5 +46,5 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 
 # Cloudwatch-Agent Steps
 **Download the CloudWatch agent package on an Amazon EC2 instance**
-1. sudo yum install amazon-cloudwatch-agent [Link](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/download-cloudwatch-agent-commandline.html#download-CloudWatch-Agent-on-EC2-Instance-commandline-first)
+1. sudo yum install amazon-cloudwatch-agent [CloudwatchAgent](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/download-cloudwatch-agent-commandline.html#download-CloudWatch-Agent-on-EC2-Instance-commandline-first)
 2. 
