@@ -1,4 +1,3 @@
 # AMI2
 
-#krushna
- 
+# AMI2
