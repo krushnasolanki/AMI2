@@ -35,14 +35,14 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 <ln>b)From Common **security groups**, choose your security group from the list of **existing security groups**.</ln>
     
 8. Keep the **default** selections for the other **configuration settings** for your instance.</br>
-9. select IAM Role **CloudWatchAgentServerRole**</br>
+9. select IAM Role **CloudWatchAgentServerRole**</br>Create Page for your Industry Blogs !!
 10. Review a **summary** of your instance configuration in the Summary panel, and when you're ready, choose **Launch instance.**
 
 
 # Connect to your Linux instance using SSH
 
 1. From the EC2 console dashboard, select your instance and select **Connect**. select **SSH client**[SSH](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html)</br>
-2. **Copy** "ssh -i /path/key-pair-name.pem instance-user-name@instance-public-dns-name"
+2. **Copy** "ssh -i /path/key-pair-name.pem instance-user-name@instance-public-dns-name"Create Page for your Industry Blogs !!
 
 # Cloudwatch-Agent Steps
 **Download the CloudWatch agent package on an Amazon EC2 instance**
