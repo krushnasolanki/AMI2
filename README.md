@@ -9,8 +9,8 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 2. In the navigation pane, choose  **Roles** and then choose  **Create role.**</br>
 3. Under **Select type of trusted entity**, choose **AWS service.**</br>
 4. Immediately under **Common use cases**, choose **EC2**,and then choose **Next: Permissions.**</br>
-5. In the list of policies, select the check box next to **CloudWatchAgentServerPolicy.** If necessary, use the search box to find the policy.</br>
-6. To use Systems Manager to install or configure the CloudWatch agent, select the box next to **AmazonSSMManagedInstanceCore**. This AWS managed policy enables an instance to use Systems Manager service core functionality. If necessary, use the search box to find the policy. This policy isn't necessary if you start and configure the agent only through the command line.</br>
+5. In the list of policies, select the check box next to **CloudWatchAgentServerPolicy.** If necessary, use the search box to find the policy.
+6. To use Systems Manager to install or configure the CloudWatch agent, select the box next to **AmazonSSMManagedInstanceCore**. This AWS managed policy enables </br> an instance to use Systems Manager service core functionality. If necessary, use the search box to find the policy. This policy isn't necessary if you start and configure the agent only through the command line.</br>
 7. Choose **Next: Tags.**</br>
 8. (Optional) Add one or more tag-key value pairs to organize, track, or control access for this role, and then choose **Next: Review.**</br>
 9. For **Role name**, enter a name for your new role, such as **CloudWatchAgentServerRole** or another name that you prefer.</br>
