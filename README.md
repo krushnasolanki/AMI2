@@ -50,4 +50,4 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 2. wget "download-link</br>
 3. Install the package. If you downloaded an RPM package on a Linux server, change to the directory containing the package and enter the following: 
 **sudo rpm -U ./amazon-cloudwatch-agent.rpm**</br>
-Follow next step using this video [Video for installation AWS CWAGENT in LINUX AMI 2](https://youtu.be/vX6OvYDWOZQ)
+Follow next step using this video [Video for installation AWS CWAGENT in LINUX AMI 2](https://youtu.be/vX6OvYDWOZQ) 
