@@ -31,4 +31,6 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 5.Under **Instance type**, from the **Instance type** list, you can select the hardware configuration for your instance. Choose the ***t2.micro*** instance</br> type, which is selected by default. The ***t2.micro*** instance type is eligible for the free tier. In Regions where ***t2.micro*** is unavailable, you can use</br> a ***t3.micro*** instance under the free tier.</br>
 6.Under **Key pair (login)**, for **Key pair name**, choose the key pair that you created when getting set up.</br>
 7.Next to **Network settings**, choose **Edit**. For **Security group name**, you'll see that the wizard created and selected a security group for you. You can use this security group, or alternatively you can select the security group that you created when getting set up using the following steps:</br>
-<ul>a)Choose Select existing security group.</ul>
+<ul>a)Choose Select existing security group.
+    b)From Common security groups, choose your security group from the list of existing security groups.</ul>
+    8.Keep the default selections for the other configuration settings for your instance.
