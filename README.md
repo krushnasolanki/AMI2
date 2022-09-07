@@ -20,3 +20,7 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 
 ***The role is now created.***
 
+# create EC2 Instance steps
+
+1.Sign in to the AWS Management Console and open the EC2 console at [AWS EC2](https://console.aws.amazon.com/ec2/)</br>
+2.In the navigation pane, choose **Instances** and then choose **launch instances**</br>
