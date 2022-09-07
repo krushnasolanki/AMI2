@@ -18,7 +18,7 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 11.Confirm that **CloudWatchAgentServerPolicy** and optionally **AmazonSSMManagedInstanceCore** appear next to **Policies.**</br>
 12.Choose **Create role.**
 
-***The role is now created.***
+**The role is now created.**
 
 # Create EC2 Instance steps
 
