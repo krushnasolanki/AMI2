@@ -27,4 +27,4 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 3.Under **Name and tags**, for **Name**, enter a descriptive name for your instance.</br>
 4.Under **Application and OS Images (Amazon Machine Image)**, do the following:</br>
   a.Choose **Quick Start**, and then choose Amazon Linux. This is the operating system (OS) for your instance.</br>
-  b.From **Amazon Machine Image (AMI)**, select an HVM version of Amazon Linux 2. Notice that these AMIs are marked **Free tier** eligible. An Amazon Machine</br> Image (AMI) is a basic configuration that serves as a template for your instance.</br>
+  b.From **Amazon Machine Image (AMI)**, select an HVM version of Amazon Linux 2. Notice that these AMIs are marked **Free tier** eligible. An </br>Amazon Machine Image (AMI) is a basic configuration that serves as a template for your instance.</br>
