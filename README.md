@@ -41,5 +41,5 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 
 # Connect to your Linux instance using SSH
 
-1.From the EC2 console dashboard, select your instance and select **Connect**. select **SSH client**</br>
+1.From the EC2 console dashboard, select your instance and select **Connect**. select **SSH client**[SSH](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html)</br>
 2. **Copy** "ssh -i /path/key-pair-name.pem instance-user-name@instance-public-dns-name"
