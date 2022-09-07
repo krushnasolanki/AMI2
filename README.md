@@ -6,4 +6,4 @@ Here we are use x86-64 linux AMI2 architecture. the reason behind installation o
 
 # IAM ROLEs for AMI(CW)
 1.Sign in to the AWS Management Console and open the IAM console at [AWS IAM](https://console.aws.amazon.com/iam/)
-2.In the navigation pane, choose #  Roles and then choose #  Create role.
+2.In the navigation pane, choose  **Roles** and then choose  **Create role.**
