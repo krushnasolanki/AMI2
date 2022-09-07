@@ -43,3 +43,8 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 
 1.From the EC2 console dashboard, select your instance and select **Connect**. select **SSH client**[SSH](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html)</br>
 2. **Copy** "ssh -i /path/key-pair-name.pem instance-user-name@instance-public-dns-name"
+
+# Cloudwatch-Agent Steps
+**Download the CloudWatch agent package on an Amazon EC2 instance**
+1. sudo yum install amazon-cloudwatch-agent ][Link](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/download-cloudwatch-agent-commandline.html#download-CloudWatch-Agent-on-EC2-Instance-commandline-first)
+2. 
