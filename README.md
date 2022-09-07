@@ -33,5 +33,6 @@ Here we are use **x86-64 linux AMI2** architecture. the reason behind installati
 7.Next to **Network settings**, choose **Edit**. For **Security group name**, you'll see that the wizard created and selected a security group for you. You can use this security group, or alternatively you can select the security group that you created when getting set up using the following steps:</br>
 <ul>a)Choose Select existing security group.</br>
     b)From Common **security groups**, choose your security group from the list of **existing security groups**.</ul>
-    8.Keep the **default** selections for the other **configuration settings** for your instance.</br>
-    9.select IAM Role **CloudWatchAgentServerRole**</br>
+    
+8.Keep the **default** selections for the other **configuration settings** for your instance.</br>
+9.select IAM Role **CloudWatchAgentServerRole**</br>
